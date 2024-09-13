@@ -5,5 +5,6 @@ public class deneme {
 
         System.out.println("Merhaba");
         System.out.println("deneme");
+        System.out.println("deneme1");
     }
 }
