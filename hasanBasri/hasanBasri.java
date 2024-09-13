@@ -5,5 +5,6 @@ public class hasanBasri {
 
         System.out.println("hasan deneme");
         System.out.println("2.deneme");
+        System.out.println("asd");
     }
 }
