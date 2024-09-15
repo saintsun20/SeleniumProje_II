@@ -56,7 +56,7 @@ public class TC_0201 extends BaseDriver {
 
         WebElement uyari = driver.findElement(By.xpath("//li[text()='The specified email already exists']"));
         Assert.assertTrue("Ekrana Doğru Mesaj Yansıtılmadı.",uyari.getText().contains("exists"));
-        MyFunc.Bekle(20);
+        MyFunc.Bekle(10);
 
         BekleKapat();
 
