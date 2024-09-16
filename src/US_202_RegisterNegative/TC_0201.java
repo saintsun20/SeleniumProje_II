@@ -23,7 +23,7 @@ public class TC_0201 extends BaseDriver {
 
         WebElement male = driver.findElement(By.xpath("//input[@id='gender-male']"));
         male.click();
-        MyFunc.Bekle(10);
+        MyFunc.Bekle(5);
 
         WebElement firstName = driver.findElement(By.xpath("//input[@id='FirstName']"));
         firstName.click();
