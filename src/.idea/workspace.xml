@@ -17,9 +17,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2m4j45TTYvOX6plPhE96RWggdo0" />
   <component name="ProjectViewState">
     <option name="flattenModules" value="true" />
@@ -37,66 +37,21 @@
     "JUnit.TC_0501.Test3.executor": "Run",
     "JUnit.TC_0501.Test4.executor": "Run",
     "JUnit.TC_0601.Test1.executor": "Run",
+    "JUnit.TC_0701.Test1.executor": "Run",
+    "JUnit.TC_0801.Test1.executor": "Run",
+    "JUnit.TC_0901.Test1.executor": "Run",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/MONSTER/Desktop/HALİL ÖZÇAKMAK/01.TECHNO STUDY/TestingToolar/3.HAFTA/PROJE/src",
+    "last_opened_file_path": "C:/Users/MONSTER/Desktop/HALİL ÖZÇAKMAK/01.TECHNO STUDY/TestingToolar/4.HAFTA/17.09.2024/src",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.TC_0601.Test1">
-    <configuration name="TC_0501.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PROJE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="US_205_LoginNegative.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="US_205_LoginNegative" />
-      <option name="MAIN_CLASS_NAME" value="US_205_LoginNegative.TC_0501" />
-      <option name="METHOD_NAME" value="Test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TC_0501.Test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PROJE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="US_205_LoginNegative.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="US_205_LoginNegative" />
-      <option name="MAIN_CLASS_NAME" value="US_205_LoginNegative.TC_0501" />
-      <option name="METHOD_NAME" value="Test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TC_0501.Test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PROJE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="US_205_LoginNegative.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="US_205_LoginNegative" />
-      <option name="MAIN_CLASS_NAME" value="US_205_LoginNegative.TC_0501" />
-      <option name="METHOD_NAME" value="Test3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TC_0901.Test1">
     <configuration name="TC_0501.Test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PROJE" />
       <extension name="coverage">
@@ -129,13 +84,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TC_0701.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PROJE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="US_207_AnketYanitlama.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="US_207_AnketYanitlama" />
+      <option name="MAIN_CLASS_NAME" value="US_207_AnketYanitlama.TC_0701" />
+      <option name="METHOD_NAME" value="Test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_0801.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PROJE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="US_208_Kupon_GiftCardNegative.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="US_208_Kupon_GiftCardNegative" />
+      <option name="MAIN_CLASS_NAME" value="US_208_Kupon_GiftCardNegative.TC_0801" />
+      <option name="METHOD_NAME" value="Test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_0901.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PROJE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="US_209_FaturaGoruntuleme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="US_209_FaturaGoruntuleme" />
+      <option name="MAIN_CLASS_NAME" value="US_209_FaturaGoruntuleme.TC_0901" />
+      <option name="METHOD_NAME" value="Test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TC_0901.Test1" />
+        <item itemvalue="JUnit.TC_0801.Test1" />
+        <item itemvalue="JUnit.TC_0701.Test1" />
         <item itemvalue="JUnit.TC_0601.Test1" />
         <item itemvalue="JUnit.TC_0501.Test4" />
-        <item itemvalue="JUnit.TC_0501.Test3" />
-        <item itemvalue="JUnit.TC_0501.Test2" />
-        <item itemvalue="JUnit.TC_0501.Test1" />
       </list>
     </recent_temporary>
   </component>
