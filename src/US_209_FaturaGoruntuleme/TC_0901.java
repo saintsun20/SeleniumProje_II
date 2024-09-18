@@ -38,7 +38,7 @@ public class TC_0901 extends BaseDriver {
         WebElement orders = driver.findElement(By.xpath("(//a[@href='/customer/orders'][text()='Orders'])[1]"));
         orders.click();             MyFunc.Bekle(10);
 
-        WebElement detailss = driver.findElement(By.xpath("(//input[@type='button'])[1]"));
+        WebElement detailss = driver.findElement(By.xpath("(//input[@type='button'])[2]"));
         MyFunc.Bekle(3);
         detailss.click();            MyFunc.Bekle(5);
 
